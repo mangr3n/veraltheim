@@ -25,13 +25,19 @@ Personal identity, in the context of life planning, is understood as a dynamic p
 1. **Conceptual Connections**:
    - Aligns with narrative identity theory: self constructed through life stories.
    - Resonates with views of consciousness as an emergent property of complex systems.
-   
 
-1. **Key Questions**:
-   - How can we balance focus on character evolution with necessary attention to physical needs?
-   - What methods can we use to observe and measure the evolution of personal patterns?
-   - How does the physical substrate influence or constrain the potential evolution of the self-pattern?
+1. **Key Questions and Meta-Principles**:
+   1. **Balancing Abstract and Concrete Aspects of Self**:
+      - Meta-Principle: Recognize the bidirectional influence between character evolution and physical well-being.
+      - Question: How can we create a framework for decision-making that weighs both character development and physical necessities?
 
+   1. **Measuring Pattern Evolution**:
+      - Meta-Principle: Acknowledge that self-pattern evolution occurs across multiple dimensions (cognitive, emotional, behavioral, etc.).
+      - Question: What metrics or reflection methods can we develop to track multidimensional pattern changes over time?
+
+   1. **Physical-Abstract Interaction**:
+      - Meta-Principle: The physical substrate both enables and constrains pattern evolution.
+      - Question: How do different physical states (health, environment, etc.) correspond to different potentials for pattern evolution?
 ### 2. **Free Will**
 The belief that we have the ability to make choices that influence our future.
 
