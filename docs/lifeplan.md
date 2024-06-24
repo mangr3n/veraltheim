@@ -8,23 +8,29 @@ Personal identity, in the context of life planning, is understood as a dynamic p
    - Self as an evolving pattern implemented in matter, not reducible to matter itself.
    - Identity unfolds and manifests over time, fully appreciable only when viewed holistically.
 
-2. **Continuity and Change**:
+1. **Continuity and Change**:
    - Allows for planning while acknowledging significant evolution of self over time.
    - Emphasizes guiding the pattern's evolution rather than setting goals for a static entity.
 
-3. **Implications for Life Planning**:
+1. **Implications for Life Planning**:
    - Necessitates flexible planning to accommodate growth and transformation.
-   - Goals should address both external achievements and desired character evolution.
+   - Prioritizes character evolution over external achievements, while recognizing the necessity of maintaining the physical substrate.
+   - Balances abstract pattern evolution with concrete needs of physical existence.
    - Considers ethical responsibilities in shaping one's pattern and its influence on surrounding systems.
 
-4. **Conceptual Connections**:
+1. Material Reality and Abstract Patterns:
+   - Acknowledges the inescapable need to maintain physical well-being as the substrate for pattern implementation.
+   - Recognizes the interdependence between abstract personal evolution and concrete survival needs.
+
+1. **Conceptual Connections**:
    - Aligns with narrative identity theory: self constructed through life stories.
    - Resonates with views of consciousness as an emergent property of complex systems.
+   
 
-5. **Key Questions**:
-   - How does this view of identity impact free will and decision-making?
+1. **Key Questions**:
+   - How can we balance focus on character evolution with necessary attention to physical needs?
    - What methods can we use to observe and measure the evolution of personal patterns?
-   - How does memory contribute to maintaining pattern continuity?
+   - How does the physical substrate influence or constrain the potential evolution of the self-pattern?
 
 ### 2. **Free Will**
 The belief that we have the ability to make choices that influence our future.
