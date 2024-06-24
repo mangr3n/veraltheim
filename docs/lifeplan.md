@@ -124,6 +124,17 @@ This section is maintained and updated by the AI assistant to capture insights i
 - Intellectual Independence: Prefers collaborators (including AI) to maintain independent perspectives rather than simply agreeing or affirming.
 - Constructive Challenging: Values input that challenges assumptions and highlights potential inconsistencies or areas for growth.
 
+### 2.13 Methodological Approach
+
+- Foundation-First: Prioritizes establishing solid theoretical and metaphysical foundations before moving to more specific or practical applications.
+- Conceptual Stability: Values creating a stable conceptual model as a basis for further exploration and planning.
+- Patience in Process: Willing to delay immediate practical outcomes in favor of thorough groundwork.
+
+### 2.14 Intellectual Priorities
+
+- Metaphysical Grounding: Places high importance on understanding and defining the metaphysical underpinnings of personal development and life planning.
+- Systematic Progression: Prefers to work through ideas in a logical, systematic manner, building complexity on established foundations.
+
 ## 3. Life Plan Structure (Initial Draft)
 
 1. **Vision and Values**
