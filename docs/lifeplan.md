@@ -1,6 +1,6 @@
 ## 1. Metaphysical Considerations
 
-### 1.1 Personal Identity
+### 1 Personal Identity
 
 Personal identity, in the context of life planning, is understood as a dynamic pattern rather than a fixed entity:
 
@@ -26,17 +26,17 @@ Personal identity, in the context of life planning, is understood as a dynamic p
    - What methods can we use to observe and measure the evolution of personal patterns?
    - How does memory contribute to maintaining pattern continuity?
 
-2. **Free Will**: The belief that we have the ability to make choices that influence our future.
+### 2. **Free Will**: The belief that we have the ability to make choices that influence our future.
 
-3. **Causality**: The idea that our actions now will have predictable effects on our future state.
+### 3. **Causality**: The idea that our actions now will have predictable effects on our future state.
 
-4. **Time**: The conception of time as linear and progressive, allowing for future planning.
+### 4. **Time**: The conception of time as linear and progressive, allowing for future planning.
 
-5. **Value and Meaning**: The assumption that life can have purpose and that certain states or achievements are more desirable than others.
+### 5. **Value and Meaning**: The assumption that life can have purpose and that certain states or achievements are more desirable than others.
 
-6. **Knowability of the Future**: The belief that we can, to some extent, anticipate future conditions and prepare for them.
+### 6. **Knowability of the Future**: The belief that we can, to some extent, anticipate future conditions and prepare for them.
 
-7. **Mind-Body Relationship**: How our mental states (goals, desires) relate to physical reality and actions.
+### 7. **Mind-Body Relationship**: How our mental states (goals, desires) relate to physical reality and actions.
 
 ## 2. David Boyer: A Dynamic Pattern
 
