@@ -9,7 +9,8 @@ defmodule Veraltheim.MixProject do
       elixirc_paths: elixirc_paths(Mix.env()),
       start_permanent: Mix.env() == :prod,
       aliases: aliases(),
-      deps: deps()
+      deps: deps(),
+      releases: releases()
     ]
   end
 
@@ -50,7 +51,8 @@ defmodule Veraltheim.MixProject do
       {:gettext, "~> 0.20"},
       {:jason, "~> 1.2"},
       {:plug_cowboy, "~> 2.5"},
-      {:live_svelte, "~> 0.13.0"}
+      {:live_svelte, "~> 0.13.0"},
+      {:burrito, "~> 1.2.0"}
     ]
   end
 
@@ -69,6 +71,20 @@ defmodule Veraltheim.MixProject do
       "assets.setup": ["tailwind.install --if-missing", "esbuild.install --if-missing"],
       "assets.build": ["tailwind default", "esbuild default"],
       "assets.deploy": ["tailwind default --minify", "esbuild default --minify", "phx.digest"]
+    ]
+  end
+
+  def releases do
+    [
+      vera: [
+        include_executables_for: [:unix],
+        steps: [:assemble, &Burrito.wrap/1 ],
+        burrito: [
+          targets: [
+            macos: [os: :darwin, cpu: :x86_64]
+          ]
+        ]
+      ]
     ]
   end
 end
