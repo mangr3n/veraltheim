@@ -64,6 +64,8 @@ By deepening our understanding of free will and its role in self-motivation, we 
 
 ### 3. **Causality**: The idea that our actions now will have predictable effects on our future state.
 
+
+
 ### 4. **Time**: The conception of time as linear and progressive, allowing for future planning.
 
 ### 5. **Value and Meaning**: The assumption that life can have purpose and that certain states or achievements are more desirable than others.
