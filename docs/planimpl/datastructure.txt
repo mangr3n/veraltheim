@@ -1,0 +1,44 @@
+/data
+│
+├── /projects
+│   ├── project_1/
+│   │   ├── tasks.csv            # List of tasks specific to project 1
+│   │   ├── milestones.json       # Milestones or objectives for project 1
+│   │   ├── notes.md              # Notes, decisions, and insights
+│   │   └── assets/               # Any project-specific files (diagrams, datasets)
+│   ├── project_2/
+│   └── template/                 # Template folder for new projects
+│       ├── tasks.csv
+│       ├── milestones.json
+│       └── notes.md
+│
+├── /daily_plans
+│   ├── YYYY-MM-DD_plan.md        # Markdown files for daily planning
+│   ├── YYYY-MM-DD_log.json       # Logs of completed tasks and notes per day
+│   └── templates/                # Templates for daily planning files
+│       └── daily_template.md
+│
+├── /task_management
+│   ├── all_tasks.csv             # Master task list across all projects
+│   ├── recurring_tasks.json      # Recurring tasks with frequencies
+│   ├── completed_tasks.csv       # Archive of completed tasks with timestamps
+│   └── tags.json                 # Tag definitions for task categorization
+│
+├── /personal_goals
+│   ├── goals_YYYY.md             # Yearly goal files in Markdown
+│   ├── habits.csv                # Tracking daily/weekly habits (exercise, reading, etc.)
+│   └── life_areas.json           # Key areas of life with priorities and aspirations
+│
+├── /automations
+│   ├── automation_logs/          # Logs for automation runs
+│   ├── scripts/                  # Automation scripts (e.g., for updating tasks)
+│   └── configs/                  # Configuration files for automation settings
+│
+├── /reference_materials
+│   ├── articles/
+│   ├── guides/
+│   └── templates/                # General templates for projects, planning, etc.
+│
+└── /backups
+    ├── YYYY-MM-DD_backup.zip     # Date-based backup archives
+    └── README.md                 # Backup instructions and restoration process
