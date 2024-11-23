@@ -23,3 +23,9 @@ Thumbs.db
 # Build directories
 dist/
 build/
+
+# History files
+.history/
+
+# Mandatory files (never ignore)
+!README.*
