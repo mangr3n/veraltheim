@@ -47,15 +47,15 @@
 - How should we apply this understanding?
 - What principles should guide implementation?
 
-### Conclusion
-- Single statement synthesizing the note's complete arc
-- Shows progression from problem through understanding to approach
-- Captures the note's unique contribution to the larger narrative
-
 ### Conjecture
 - Fundamental assertion underlying the note's perspective
 - Core claim that drives the note's insights
 - How it builds on or extends previous conjectures
+
+### Conclusion
+- Single statement synthesizing the note's complete arc
+- Shows progression from problem through understanding to approach
+- Captures the note's unique contribution to the larger narrative
 
 ### Synopsis
 - How does this note advance the overall narrative?
@@ -63,13 +63,13 @@
 - How does it connect to and build upon previous notes?
 
 ## Order of Operations
-1. Process sections 1-5 first (Problem through Declaration)
+1. Process sections 1-5 first (Problem through Declaration), one at a time.
 2. Then derive the Conjecture
 3. Then write the Conclusion
 4. Finally update the Synopsis
 
 ## Key Principles
-- Each section builds on previous sections
+- Each section builds on previous sections, so we extract the sections in order, individually.
 - Maintain coherence within each note
 - Show how each note connects to the larger narrative
 - Keep entries clear and concise
@@ -81,3 +81,9 @@
 - Does the conclusion effectively synthesize the note's key insights?
 - Does the conjecture capture the fundamental assertion?
 - Does the synopsis update show how this note advances the larger narrative?
+
+
+## Useful User Prompts
+
+- Using docs/book_of_life/note_processing.md as the instructions, process Note [#] from docs/book_of_life/notes/raw_notes.md and generate entries for the [Problem|Thesis|Exposition|Apologia|Declaration] section of my document.
+- Using docs/book_of_life/note_processing.md as the instructions, process Note [#] from docs/book_of_life/notes/raw_notes.md and generate the entry for the [Synopsis|Conjecture|Conclusion] section of my document.
